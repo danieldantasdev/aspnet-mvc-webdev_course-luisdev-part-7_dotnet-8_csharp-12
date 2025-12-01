@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\modulo 5 - ok-20250226t005820z-001\\modulo 5 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\modulo 5 - ok-20250226t005820z-001\\modulo 5 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\modulo 5 - ok-20250226t005820z-001\\modulo 5 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\modulo 5 - ok-20250226t005820z-001\\modulo 5 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\modulo 5 - ok-20250226t005820z-001\\modulo 5 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\modulo 5 - ok-20250226t005820z-001\\modulo 5 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\views\\pessoa\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\pessoa\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\appsettings.json",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\appsettings.json",
+              "RelativeToolTip": "GerenciamentoDePessoas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T01:00:46.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T14:05:55.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalhesUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Pessoa\\DetalhesUsuario.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Pessoa\\DetalhesUsuario.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Pessoa\\DetalhesUsuario.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Pessoa\\DetalhesUsuario.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T14:02:03.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T14:01:50.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:53:30.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\Modulo 5 - Ok-20250226T005820Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T13:38:25.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
