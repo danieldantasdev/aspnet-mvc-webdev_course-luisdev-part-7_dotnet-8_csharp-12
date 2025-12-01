@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 5 - ok\\gerenciamentodepessoas - crud manual\\gerenciamentodepessoas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 5 - ok\\gerenciamentodepessoas - crud manual\\gerenciamentodepessoas\\data\\gerenciamentodepessoascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\data\\gerenciamentodepessoascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 5 - ok\\gerenciamentodepessoas - crud manual\\gerenciamentodepessoas\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 5 - ok\\gerenciamentodepessoas - crud manual\\gerenciamentodepessoas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 5 - ok\\gerenciamentodepessoas - crud manual\\gerenciamentodepessoas\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 5 - ok\\gerenciamentodepessoas - crud manual\\gerenciamentodepessoas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 5 - ok\\gerenciamentodepessoas - crud manual\\gerenciamentodepessoas\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 5 - ok\\gerenciamentodepessoas - crud manual\\gerenciamentodepessoas\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 5 - ok\\gerenciamentodepessoas - crud manual\\gerenciamentodepessoas\\views\\pessoa\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\pessoa\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\appsettings.json",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\appsettings.json",
+              "RelativeToolTip": "GerenciamentoDePessoas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T15:18:27.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GerenciamentoDePessoasContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Data\\GerenciamentoDePessoasContext.cs",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Data\\GerenciamentoDePessoasContext.cs",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Data\\GerenciamentoDePessoasContext.cs",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Data\\GerenciamentoDePessoasContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:18:23.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T01:14:08.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "GerenciamentoDePessoas\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-25T23:35:48.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Views\\Pessoa\\Criar.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Pessoa\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Views\\Pessoa\\Criar.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Pessoa\\Criar.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:12:13.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T01:04:22.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Controllers\\PessoaController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwGsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:28:56.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Services\\PessoaService.cs",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Services\\PessoaService.cs",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Services\\PessoaService.cs",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Services\\PessoaService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:10:49.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 5 - Ok\\GerenciamentoDePessoas - CRUD Manual\\GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T21:01:31.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
